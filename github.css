@@ -392,3 +392,6 @@ header, .context-menu, .megamenu-content, footer{
 	color: #aaa;
 	font-style: italic;
 }
+pre {
+    font-family: 'Lucida Console', Consolas, 'Sarasa UI SC', 'Courier', monospace;
+}
