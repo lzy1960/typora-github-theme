@@ -387,7 +387,7 @@ header, .context-menu, .megamenu-content, footer{
     margin-top: 0.3rem;
     -webkit-appearance: none;
 }
-.md-task-list-item.task-list-done {
+.md-task-list-item.task-list-done > p {
 	text-decoration: line-through;
 	color: #aaa;
 	font-style: italic;
